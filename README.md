@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://subhajitroycode.github.io/3-column-preview-card/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-8_sVVAbl_)
+- Live Site URL: [Click here](https://subhajitroycode.github.io/3-column-preview-card/)
 
 ## My process
 
